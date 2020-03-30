@@ -144,12 +144,17 @@ public final class Constants {
      * development.state
      */
     public static final String DEVELOPMENT_STATE = "development.state";
-    public static final String DEVELOPMENT_STATE_DEFAULT_VALUE = "true";
 
     /**
      * string true
      */
     public static final String STRING_TRUE = "true";
+
+    /**
+     * string false
+     */
+    public static final String STRING_FALSE = "true";
+
 
     /**
      * resource storage type
